@@ -1,9 +1,9 @@
 body {
- background-color:#e0ffe0; 
+ background-color: #e0ffe0; 
 }
 
 p {
-color:#00ff00;
+color: #00ff00;
 }
 
 #header {
@@ -13,5 +13,7 @@ color:#00ff00;
 
 #body-wrap {
  width: 80%
+ background-color: #dddddd;
  padding: 15px;
+ margin: auto;
 }
