@@ -1,5 +1,5 @@
 body {
- background-color: #e0ffe0; 
+background-color: #e0ffe0; 
 }
 
 p {
@@ -7,28 +7,28 @@ color: #00ff00;
 }
 
 #header {
- width: 80%;
- background-color: #98ef98;
- padding: 25px;
+width: 80%;
+background-color: #98ef98;
+padding: 25px;
 }
 
 #nav {
 width: 80%;
 background-color: #55cc55
- padding: 25px;
+padding: 25px;
 }
 
 #nav a {
-color: #ffffff;;
- background-color: #000000;
+color: #ffffff;
+background-color: #000000;
 text-decoration: none;
- margin: auto;
- padding: 15px;
+margin: auto;
+padding: 15px;
 }
 
 #body-wrap {
- width: 80%;
- background-color: #ccffcc;
- padding: 15px;
- margin: auto;
+width: 80%;
+background-color: #ccffcc;
+padding: 15px;
+margin: auto;
 }
