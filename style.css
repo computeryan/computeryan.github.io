@@ -20,6 +20,8 @@ background-color: #55cc55
 #nav a {
 color: black;
 text-decoration: none;
+ margin: auto;
+ padding: 15px;
 }
 
 #body-wrap {
