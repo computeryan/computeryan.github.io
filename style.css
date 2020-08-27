@@ -15,10 +15,12 @@ color: #00ff00;
 #nav {
 width: 80%;
 background-color: #55cc55
+ padding: 25px;
 }
 
 #nav a {
-color: black;
+color: #ffffff;;
+ background-color: #000000;
 text-decoration: none;
  margin: auto;
  padding: 15px;
