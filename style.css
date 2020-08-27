@@ -1,5 +1,5 @@
 body {
- background-color:#ccffcc; 
+ background-color:#e0ffe0; 
 }
 
 p {
@@ -8,5 +8,10 @@ color:#00ff00;
 
 #header {
  background-color: #ccffcc;
- padding: 50px;
+ padding: 25px;
+}
+
+#body-wrap {
+ width: 80%
+ padding: 15px;
 }
