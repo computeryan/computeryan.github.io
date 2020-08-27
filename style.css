@@ -7,8 +7,19 @@ color: #00ff00;
 }
 
 #header {
- background-color: #3a99a3;
+ width: 80%;
+ background-color: #98ef98;
  padding: 25px;
+}
+
+#nav {
+width: 80%;
+background-color: #55cc55
+}
+
+#nav a {
+color: black;
+text-decoration: none;
 }
 
 #body-wrap {
