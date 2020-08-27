@@ -35,6 +35,10 @@ padding: 15px;
  margin: auto;
 }
 
+#rypro h2 {
+ display: inline-block;
+}
+
 #rypro a {
  color: #00ff00;
  background-color: #000000;
