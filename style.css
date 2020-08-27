@@ -28,6 +28,20 @@ margin: auto;
 padding: 15px;
 }
 
+#rypro {
+ width: 80%;
+ background-color: #111111;
+ padding: 20px;
+ margin: auto;
+}
+
+#rypro a {
+ color: #00ff00;
+ padding: 15px;
+ background-color: #000000;
+ text-decoration: none;
+}
+
 #body-wrap {
 width: 80%;
 background-color: #ccffcc;
